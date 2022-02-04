@@ -1,0 +1,5 @@
+- 👋 Hi, I’m IMRAN KHAN  @imran0irk
+- 👀 I’m interested in robotics and AI
+- 🌱 I’m currently learning Neural Network
+- 💞️ I’m looking to collaborate on Machine learning, Neural Network & Robotics OS
+- 📫 How to reach me :  imran0irk@yahoo.com
